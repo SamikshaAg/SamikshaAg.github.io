@@ -1,0 +1,31 @@
+body
+{
+background-image: url("about.jpg");
+}
+
+img
+{
+display: block;
+margin: auto;
+height: 350px;
+width: 350px;
+padding-top: 40px;
+}
+
+h1.about
+{
+padding-top: 60px;
+color: #334d4d;
+}
+
+h1.contact
+{
+padding-top: 60px;
+color: #334d4d;
+text-align: center;
+}
+
+a
+{
+color: #334d4d;
+}
