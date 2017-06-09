@@ -1,0 +1,100 @@
+body
+{
+background-image : url("backgroundimg.jpg");
+}
+
+ul.menu
+{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+
+}
+
+li.submenu
+{
+float: left;
+}
+
+li.submenu a
+{
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li.submenu a:hover
+{
+background-color: #111;
+}
+
+
+h1.name
+{
+color : #669999;
+font-size : 100px;
+margin-top : 120px;
+padding-top : 30px;
+font-family : "Comic Sans MS", cursive, sans-serif;
+}
+
+h3
+{
+font-size: 40px;
+}
+
+
+.fa
+{
+padding: 20px;
+font-size: 30px;
+width: 20px;
+text-align: center;
+text-decoration: none;
+border-radius: 50%;
+margin-left: 100px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-instagram {
+    background: #ff0066;
+    color: white;
+}
+
+.fa-linkedin{
+    background: #0077b3;
+    color: white;
+}
+
+.fa-github {
+    background: black;
+    color: white;
+}
+
+.fa-angellist {
+    background: black;
+    color: white;
+}
+
+.fa-google-plus {
+    background: red;
+    color: white;
+}
+
