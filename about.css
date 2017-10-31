@@ -5,7 +5,7 @@ background-image: url("about.jpg");
 
 img
 {
-display: block;
+display: transparent;
 margin: auto;
 height: 350px;
 width: 350px;
